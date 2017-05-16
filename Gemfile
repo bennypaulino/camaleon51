@@ -28,6 +28,8 @@ gem 'jbuilder', '~> 2.5'
 # CMS based on Rails 4
 gem "camaleon_cms",  '>= 2.4.3.5' # Stable versions 2.4.3.2, 2.3.6, 2.2.1, 2.1.1, 2.1.0
 # gem "camaleon_cms", github: 'owen2345/camaleon-cms' # current development version
+# Decorators/View-Models for Rails Applications
+gem 'draper', github: 'drapergem/draper'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
